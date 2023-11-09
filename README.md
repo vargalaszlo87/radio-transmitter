@@ -21,3 +21,15 @@ FFT signal is here, it works on ~730kHz (so on Medium wave):
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jfwVguCQNgU/0.jpg)](https://youtu.be/jfwVguCQNgU)
 
+## License
+
+See `LICENSE.txt` for more information.
+
+## Contact
+
+Varga Laszlo - https://vargalaszlo.com - mail@vargalaszlo.com.com
+
+Project Link: https://github.com/vargalaszlo87/radio-transmitter
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://vargalaszlo.com)
+
