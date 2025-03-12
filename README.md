@@ -27,7 +27,7 @@ See `LICENSE.txt` for more information.
 
 ## Contact
 
-Varga Laszlo - https://vargalaszlo.com - mail@vargalaszlo.com.com
+Varga Laszlo - https://vargalaszlo.com - mail@vargalaszlo.com
 
 Project Link: https://github.com/vargalaszlo87/radio-transmitter
 
